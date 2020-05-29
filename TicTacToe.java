@@ -31,7 +31,7 @@ class TicTacToe
                 display();
                 if(result==true)
                 {
-                    System.out.println("~~~ Congo... "+s2+" WINS!!! ~~~");
+                    System.out.println("~~~ Congratulations... "+s2+" WINS!!! ~~~");
                     break;
                 }
             }
